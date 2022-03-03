@@ -1,5 +1,6 @@
 # TOWER-OF-HANOI-game-using-3-Stacks-Data-strcutures
 Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks.
+
 ![alt text](https://content.codecademy.com/courses/stack-project/towrsofhanoi.gif)
 
 The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
